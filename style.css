@@ -3,3 +3,10 @@
     padding:0;
     box-sizing;
 }
+body{
+    background-color: blue;
+    height: 100vh;
+}
+h1{
+    color: crimson;
+}
